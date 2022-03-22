@@ -25,6 +25,7 @@ body {
 .loader {
   height: 100vh;
   width: 100vw;
+  background-color: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -133,5 +134,4 @@ body {
   .save-confirmed {
     right: 25px;
   }
-  
 }
